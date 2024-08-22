@@ -1,0 +1,445 @@
+,route-collected,name,type,departure_time,arrival_time,duration,price,seats_available,rating
+0,Bangalore to Kozhikode,KSRTC (Kerala) - 129,SWIFT-GARUDA A/C SEATER BUS,14:15,22:50,08h 35m,INR 627,4 Seats available,4.2
+1,Bangalore to Kozhikode,KSRTC (Kerala) - 235,Swift Deluxe Non AC Air Bus (2+2),15:00,00:01,09h 01m,INR 620,22 Seats available,4.3
+2,Bangalore to Kozhikode,KSRTC (Kerala) - 370,AC MULTI AXLE,15:25,22:20,06h 55m,INR 729,5 Seats available,2.2
+3,Bangalore to Kozhikode,KSRTC (Kerala) - 97,Swift Deluxe Non AC Air Bus (2+2),16:02,00:50,08h 48m,INR 567,10 Seats available,2.8
+4,Bangalore to Kozhikode,KSRTC (Kerala) - 171,Swift Deluxe Non AC Air Bus (2+2),16:16,01:20,09h 04m,INR 640,22 Seats available,3.3
+5,Bangalore to Kozhikode,KSRTC (Kerala) - 553,Super Express Non AC Seater Air Bus (2+2),16:45,01:25,08h 40m,INR 640,3 Seats available,2.0
+6,Bangalore to Kozhikode,KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),19:04,04:24,09h 20m,INR 640,39 Seats available,4.4
+7,Bangalore to Kozhikode,KSRTC (Kerala) - 789,Super Fast Non AC Seater (2+3),20:00,04:25,08h 25m,INR 473,32 Seats available,3.6
+8,Bangalore to Kozhikode,KSRTC (Kerala) - 1585,Super Express Non AC Seater Air Bus (2+2),20:31,05:36,09h 05m,INR 640,24 Seats available,3.8
+9,Bangalore to Kozhikode,KSRTC (Kerala) - 2133,Swift Deluxe Non AC Air Bus (2+2),22:12,07:36,09h 24m,INR 640,25 Seats available,3.4
+10,Bangalore to Kozhikode,KSRTC (Kerala) - 2063,SWIFT-GARUDA A/C SEATER BUS,22:32,07:35,09h 03m,INR 627,7 Seats available,3.9
+11,Bangalore to Kozhikode,KSRTC (Kerala) - 574,Super Express Non AC Seater Air Bus (2+2),23:00,09:30,10h 30m,INR 469,32 Seats available,3.9
+12,Bangalore to Kozhikode,KSRTC (Kerala) - 583,Super Express Non AC Seater Air Bus (2+2),23:30,09:35,10h 05m,INR 469,17 Seats available,3.5
+13,Bangalore to Kozhikode,KSRTC (Kerala) - 56,SWIFT-GARUDA A/C SEATER BUS,23:41,09:05,09h 24m,INR 627,28 Seats available,3.8
+14,Bangalore to Kozhikode,MMK Travels,VE A/C Seater / Sleeper (2+1),22:30,07:30,09h 00m,INR 700,27 Seats available,4.4
+15,Bangalore to Kozhikode,SAAM BUS,Bharat Benz A/C Sleeper (2+1),20:10,06:45,10h 35m,808,16 Seats available,4.4
+16,Bangalore to Kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),21:45,06:10,08h 25m,INR 700,24 Seats available,4.2
+17,Bangalore to Kozhikode,AdSURAJ TRAVEL HOUSE,VE A/C Seater / Sleeper (2+1),21:00,07:30,10h 30m,INR 699,32 Seats available,3.9
+18,Bangalore to Kozhikode,P K Travels,A/C Sleeper (2+1),18:45,06:30,11h 45m,INR 950,21 Seats available,4.3
+19,Kozhikode to Ernakulam,KSRTC (Kerala) - 256,Super Fast Non AC Seater (2+3),13:30,18:36,05h 06m,INR 230,17 Seats available,2.2
+20,Kozhikode to Ernakulam,KSRTC (Kerala) - 2718,Super Fast Non AC Seater (2+3),13:50,20:00,06h 10m,INR 209,34 Seats available,3.0
+21,Kozhikode to Ernakulam,KSRTC (Kerala) - 720,Super Fast Non AC Seater (2+3),15:40,21:15,05h 35m,INR 269,31 Seats available,1.8
+22,Kozhikode to Ernakulam,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),17:25,22:40,05h 15m,INR 269,16 Seats available,3.0
+23,Kozhikode to Ernakulam,KSRTC (Kerala) - 503,Super Express Non AC Seater Air Bus (2+2),17:42,22:00,04h 18m,INR 309,10 Seats available,3.1
+24,Kozhikode to Ernakulam,KSRTC (Kerala) - 556,Super Express Non AC Seater Air Bus (2+2),18:00,22:50,04h 50m,INR 309,8 Seats available,1.7
+25,Kozhikode to Ernakulam,KSRTC (Kerala) - 1872,Low Floor AC Seater 2+2,18:30,23:44,05h 14m,INR 383,1 Seat available,3.3
+26,Kozhikode to Ernakulam,KSRTC (Kerala) - 467,Super Express Non AC Seater Air Bus (2+2),19:55,00:35,04h 40m,INR 309,5 Seats available,1.2
+27,Kozhikode to Ernakulam,KSRTC (Kerala) - 564,Super Express Non AC Seater Air Bus (2+2),20:12,00:51,04h 39m,INR 309,2 Seats available,3.2
+28,Kozhikode to Ernakulam,KSRTC (Kerala) - 46,Swift Deluxe Non AC Air Bus (2+2),20:25,01:01,04h 36m,INR 309,3 Seats available,3.0
+29,Kozhikode to Ernakulam,KSRTC (Kerala) - 2393,Low Floor AC Seater 2+2,20:30,01:44,05h 14m,INR 383,2 Seats available,3.0
+30,Kozhikode to Ernakulam,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,02:35,05h 35m,INR 269,36 Seats available,3.6
+31,Kozhikode to Ernakulam,KSRTC (Kerala) - 531,Super Express Non AC Seater Air Bus (2+2),21:15,01:10,03h 55m,INR 309,3 Seats available,3.3
+32,Kozhikode to Ernakulam,KSRTC (Kerala) - 558,Super Express Non AC Seater Air Bus (2+2),21:55,03:30,05h 35m,INR 278,10 Seats available,3.0
+33,Kozhikode to Ernakulam,KSRTC (Kerala) - 1212,AC MULTI AXLE,22:00,02:26,04h 26m,INR 494,15 Seats available,2.6
+34,Kozhikode to Ernakulam,KSRTC (Kerala) - 700,Super Fast Non AC Seater (2+3),22:15,03:49,05h 34m,INR 255,41 Seats available,2.7
+35,Kozhikode to Ernakulam,KSRTC (Kerala) - 370,AC MULTI AXLE,22:20,03:15,04h 55m,INR 494,5 Seats available,1.9
+36,Kozhikode to Ernakulam,KSRTC (Kerala) - 666,Super Fast Non AC Seater (2+3),22:25,04:19,05h 54m,INR 269,33 Seats available,3.2
+37,Kozhikode to Ernakulam,KSRTC (Kerala) - 1841,Low Floor AC Seater 2+2,22:30,03:40,05h 10m,INR 383,4 Seats available,3.3
+38,Kozhikode to Ernakulam,KSRTC (Kerala) - 592,Super Express Non AC Seater Air Bus (2+2),22:30,03:00,04h 30m,INR 278,10 Seats available,3.0
+39,Kozhikode to Ernakulam,KSRTC (Kerala) - 1704,Super Fast Non AC Seater (2+3),22:40,03:50,05h 10m,INR 255,23 Seats available,3.0
+40,Kozhikode to Ernakulam,KSRTC (Kerala) - 1011,Super Fast Non AC Seater (2+3),23:00,04:30,05h 30m,INR 261,6 Seats available,3.0
+41,Kozhikode to Ernakulam,KSRTC (Kerala) - 279,Super Fast Non AC Seater (2+3),23:05,04:40,05h 35m,INR 269,18 Seats available,3.6
+42,Kozhikode to Ernakulam,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,01:30,04h 30m,INR 600,23 Seats available,3.7
+43,Kozhikode to Ernakulam,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),21:56,02:40,04h 44m,INR 700,37 Seats available,3.8
+44,Kozhikode to Ernakulam,BLM Transports,A/C Sleeper (2+1),22:00,02:45,04h 45m,960,11 Seats available,3.9
+45,Kozhikode to Ernakulam,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),22:15,01:45,03h 30m,INR 850,26 Seats available,4.1
+46,Kozhikode to Ernakulam,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),23:30,03:10,03h 40m,899,21 Seats available,3.9
+47,Kozhikode to Bangalore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,19:00,03:35,08h 35m,INR 1037,6 Seats available,3.8
+48,Kozhikode to Bangalore,MMK Travels,VE A/C Seater / Sleeper (2+1),21:30,06:00,08h 30m,INR 999,17 Seats available,4.4
+49,Kozhikode to Bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:35,21:00,08h 25m,INR 899,18 Seats available,4.3
+50,Kozhikode to Bangalore,AdDA Transports,A/C Sleeper (2+1),21:50,06:45,08h 55m,INR 999,10 Seats available,3.7
+51,Kozhikode to Bangalore,P K Travels,A/C Sleeper (2+1),20:00,06:00,10h 00m,INR 1500,12 Seats available,4.2
+52,Ernakulam to Kozhikode,KSRTC (Kerala) - 1997,Swift Deluxe Non AC Air Bus (2+2),15:25,19:50,04h 25m,INR 360,22 Seats available,3.3
+53,Ernakulam to Kozhikode,KSRTC (Kerala) - 2711,Super Fast Non AC Seater (2+3),16:00,21:30,05h 30m,INR 269,48 Seats available,2.9
+54,Ernakulam to Kozhikode,KSRTC (Kerala) - 831,Super Fast Non AC Seater (2+3),16:35,22:25,05h 50m,INR 272,50 Seats available,1.7
+55,Ernakulam to Kozhikode,KSRTC (Kerala) - 833,Super Fast Non AC Seater (2+3),17:00,22:15,05h 15m,INR 230,50 Seats available,3.5
+56,Ernakulam to Kozhikode,KSRTC (Kerala) - 2572,Super Fast Non AC Seater (2+3),17:10,23:50,06h 40m,INR 261,40 Seats available,2.9
+57,Ernakulam to Kozhikode,KSRTC (Kerala) - 723,Super Fast Non AC Seater (2+3),17:10,22:45,05h 35m,INR 269,46 Seats available,3.6
+58,Ernakulam to Kozhikode,KSRTC (Kerala) - 74,Swift Deluxe Non AC Air Bus (2+2),17:15,21:55,04h 40m,INR 401,38 Seats available,3.1
+59,Ernakulam to Kozhikode,KSRTC (Kerala) - 2569,Super Fast Non AC Seater (2+3),18:00,00:35,06h 35m,INR 261,42 Seats available,2.9
+60,Ernakulam to Kozhikode,KSRTC (Kerala) - 549,Super Express Non AC Seater Air Bus (2+2),18:05,22:15,04h 10m,INR 401,12 Seats available,3.1
+61,Ernakulam to Kozhikode,KSRTC (Kerala) - 665,Super Fast Non AC Seater (2+3),18:20,00:15,05h 55m,INR 269,39 Seats available,2.9
+62,Ernakulam to Kozhikode,KSRTC (Kerala) - 2517,Swift Deluxe Non AC Air Bus (2+2),18:36,23:16,04h 40m,INR 401,38 Seats available,2.9
+63,Ernakulam to Kozhikode,KSRTC (Kerala) - 588,Super Express Non AC Seater Air Bus (2+2),18:45,00:00,05h 15m,INR 293,12 Seats available,2.2
+64,Ernakulam to Kozhikode,KSRTC (Kerala) - 699,Super Fast Non AC Seater (2+3),18:59,00:45,05h 46m,INR 255,46 Seats available,2.9
+65,Ernakulam to Kozhikode,KSRTC (Kerala) - 1211,AC MULTI AXLE,19:10,00:05,04h 55m,INR 750,37 Seats available,2.9
+66,Ernakulam to Kozhikode,KSRTC (Kerala) - 2367,Low Floor AC Seater 2+2,19:14,00:30,05h 16m,INR 383,10 Seats available,2.9
+67,Ernakulam to Kozhikode,KSRTC (Kerala) - 1703,Super Fast Non AC Seater (2+3),19:41,01:25,05h 44m,INR 255,42 Seats available,2.9
+68,Ernakulam to Kozhikode,KSRTC (Kerala) - 486,Super Express Non AC Seater Air Bus (2+2),20:05,00:30,04h 25m,INR 309,13 Seats available,1.1
+69,Ernakulam to Kozhikode,KSRTC (Kerala) - 2131,Super Express Non AC Seater Air Bus (2+2),20:29,01:50,05h 21m,INR 288,24 Seats available,2.9
+70,Ernakulam to Kozhikode,KSRTC (Kerala) - 1882,Low Floor AC Seater 2+2,21:14,02:30,05h 16m,INR 383,8 Seats available,3.8
+71,Ernakulam to Kozhikode,KSRTC (Kerala) - 570,Super Express Non AC Seater Air Bus (2+2),21:20,01:45,04h 25m,INR 309,30 Seats available,2.7
+72,Ernakulam to Kozhikode,KSRTC (Kerala) - 915,Super Fast Non AC Seater (2+3),21:35,03:10,05h 35m,INR 261,24 Seats available,2.9
+73,Ernakulam to Kozhikode,KSRTC (Kerala) - 1028,Super Fast Non AC Seater (2+3),22:10,03:30,05h 20m,INR 269,33 Seats available,2.9
+74,Ernakulam to Kozhikode,KSRTC (Kerala) - 2071,Super Express Non AC Seater Air Bus (2+2),22:10,02:30,04h 20m,INR 268,12 Seats available,3.7
+75,Ernakulam to Kozhikode,KSRTC (Kerala) - 43,Swift Deluxe Non AC Air Bus (2+2),22:15,03:21,05h 06m,INR 309,2 Seats available,3.8
+76,Ernakulam to Kozhikode,KSRTC (Kerala) - 408,Super Express Non AC Seater Air Bus (2+2),22:30,02:45,04h 15m,INR 299,11 Seats available,2.9
+77,Ernakulam to Kozhikode,KSRTC (Kerala) - 697,Super Fast Non AC Seater (2+3),22:34,03:35,05h 01m,INR 231,47 Seats available,3.6
+78,Ernakulam to Kozhikode,KSRTC (Kerala) - 667,Super Fast Non AC Seater (2+3),22:35,02:30,03h 55m,INR 230,44 Seats available,2.0
+79,Ernakulam to Kozhikode,KSRTC (Kerala) - 368,AC MULTI AXLE,22:50,03:05,04h 15m,INR 750,34 Seats available,2.9
+80,Ernakulam to Kozhikode,KSRTC (Kerala) - 47,Swift Deluxe Non AC Air Bus (2+2),22:55,03:52,04h 57m,INR 309,8 Seats available,3.1
+81,Ernakulam to Kozhikode,KSRTC (Kerala) - 1845,Low Floor AC Seater 2+2,23:04,04:10,05h 06m,INR 383,12 Seats available,2.8
+82,Ernakulam to Kozhikode,KSRTC (Kerala) - 431,Super Fast Non AC Seater (2+3),23:15,04:45,05h 30m,INR 269,36 Seats available,2.9
+83,Ernakulam to Kozhikode,Shajees Motors,A/C Semi Sleeper (2+2),19:30,00:40,05h 10m,500,5 Seats available,3.8
+84,Ernakulam to Kozhikode,Ubc travels,A/C Semi Sleeper (2+2),20:40,01:00,04h 20m,INR 700,13 Seats available,3.3
+85,Ernakulam to Kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),20:45,03:00,06h 15m,INR 900,25 Seats available,4.0
+86,Ernakulam to Kozhikode,Kalpaka Travels 1,A/C Sleeper (2+1),20:55,02:30,05h 35m,INR 800,12 Seats available,5.0
+87,Ernakulam to Kozhikode,Adrin Travels,A/C Seater/Sleeper (2+1),21:00,02:00,05h 00m,INR 800,18 Seats available,5.0
+88,Kozhikode to Mysore,KSRTC (Kerala) - 897,Super Fast Non AC Seater (2+3),15:01,21:30,06h 29m,INR 273,31 Seats available,3.6
+89,Kozhikode to Mysore,KSRTC (Kerala) - 708,Super Fast Non AC Seater (2+3),16:01,21:35,05h 34m,INR 285,32 Seats available,3.9
+90,Kozhikode to Mysore,KSRTC (Kerala) - 898,Super Fast Non AC Seater (2+3),16:30,22:15,05h 45m,INR 273,37 Seats available,4.4
+91,Kozhikode to Mysore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,19:00,00:30,05h 30m,INR 678,6 Seats available,3.9
+92,Kozhikode to Mysore,KSRTC (Kerala) - 719,Super Fast Non AC Seater (2+3),23:00,05:40,06h 40m,INR 319,29 Seats available,4.3
+93,Kozhikode to Mysore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:35,18:45,06h 10m,INR 599,18 Seats available,4.6
+94,Kozhikode to Mysore,Orange Tours And Travels,Bharat Benz A/C Sleeper (2+1),14:00,20:30,06h 30m,INR 1200,23 Seats available,3.3
+95,Kozhikode to Mysore,SAAM BUS,Volvo A/C Semi Sleeper (2+2),20:30,04:00,07h 30m,1045,27 Seats available,4.2
+96,Kozhikode to Mysore,SAAM BUS,Bharat Benz A/C Sleeper (2+1),20:30,04:00,07h 30m,1140,20 Seats available,4.2
+97,Kozhikode to Mysore,National travels and logistics,NON A/C Sleeper (2+1),20:45,04:00,07h 15m,990,16 Seats available,3.3
+98,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),17:25,03:55,10h 30m,INR 515,16 Seats available,2.9
+99,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1862,Low Floor AC Seater 2+2,17:30,03:45,10h 15m,INR 723,13 Seats available,2.9
+100,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 503,Super Express Non AC Seater Air Bus (2+2),17:42,01:40,07h 58m,INR 586,8 Seats available,2.3
+101,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 556,Super Express Non AC Seater Air Bus (2+2),18:00,02:55,08h 55m,INR 586,6 Seats available,2.5
+102,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1872,Low Floor AC Seater 2+2,18:30,04:25,09h 55m,INR 742,1 Seat available,2.9
+103,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),19:00,03:40,08h 40m,INR 565,4 Seats available,2.9
+104,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 467,Super Express Non AC Seater Air Bus (2+2),19:55,04:55,09h 00m,INR 586,5 Seats available,1.6
+105,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 564,Super Express Non AC Seater Air Bus (2+2),20:12,05:10,08h 58m,INR 586,1 Seat available,2.6
+106,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 46,Swift Deluxe Non AC Air Bus (2+2),20:25,05:05,08h 40m,INR 586,1 Seat available,2.2
+107,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 2393,Low Floor AC Seater 2+2,20:30,06:35,10h 05m,INR 742,2 Seats available,2.9
+108,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 2206,Super Express Non AC Seater Air Bus (2+2),20:34,05:49,09h 15m,INR 565,7 Seats available,2.9
+109,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,08:35,11h 35m,INR 515,35 Seats available,3.7
+110,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 531,Super Express Non AC Seater Air Bus (2+2),21:15,05:05,07h 50m,INR 586,3 Seats available,3.0
+111,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1880,Low Floor AC Seater 2+2,21:30,07:30,10h 00m,INR 723,1 Seat available,4.4
+112,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),21:50,06:45,08h 55m,INR 565,2 Seats available,4.6
+113,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1212,AC MULTI AXLE,22:00,06:20,08h 20m,INR 935,15 Seats available,1.4
+114,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 2743,Super Express Non AC Seater Air Bus (2+2),22:20,08:40,10h 20m,INR 565,2 Seats available,2.9
+115,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 370,AC MULTI AXLE,22:20,07:50,09h 30m,INR 935,5 Seats available,2.9
+116,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1841,Low Floor AC Seater 2+2,22:30,08:30,10h 00m,INR 742,2 Seats available,2.9
+117,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),22:35,08:25,09h 50m,INR 565,2 Seats available,2.9
+118,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 279,Super Fast Non AC Seater (2+3),23:05,09:50,10h 45m,INR 515,17 Seats available,2.4
+119,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 1843,Low Floor AC Seater 2+2,23:30,09:35,10h 05m,INR 723,3 Seats available,2.5
+120,Kozhikode to Thiruvananthapuram,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),23:59,07:20,07h 21m,INR 565,1 Seat available,2.2
+121,Kozhikode to Thiruvananthapuram,A1 Travels,A/C Seater / Sleeper (2+1),20:05,05:30,09h 25m,INR 750,23 Seats available,3.9
+122,Kozhikode to Thiruvananthapuram,BLM Transports,A/C Sleeper (2+1),22:00,07:00,09h 00m,950,12 Seats available,4.0
+123,Kozhikode to Thiruvananthapuram,Madhavi Travels,A/C Sleeper (2+1),22:20,06:30,08h 10m,999,8 Seats available,3.4
+124,Kozhikode to Thiruvananthapuram,A1 Travels,NON A/C Semi Sleeper (2+2),21:00,06:00,09h 00m,INR 600,22 Seats available,3.7
+125,Kozhikode to Thiruvananthapuram,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:15,07:15,08h 00m,INR 1000,26 Seats available,2.3
+126,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 129,SWIFT-GARUDA A/C SEATER BUS,14:15,21:05,06h 50m,INR 524,3 Seats available,3.1
+127,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 370,AC MULTI AXLE,15:25,20:55,05h 30m,INR 576,15 Seats available,3.2
+128,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 97,Swift Deluxe Non AC Air Bus (2+2),16:02,22:31,06h 29m,INR 475,20 Seats available,1.9
+129,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 171,Swift Deluxe Non AC Air Bus (2+2),16:16,23:30,07h 14m,INR 548,23 Seats available,3.9
+130,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 553,Super Express Non AC Seater Air Bus (2+2),16:45,00:10,07h 25m,INR 548,14 Seats available,3.8
+131,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),19:04,02:50,07h 46m,INR 548,39 Seats available,3.8
+132,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 789,Super Fast Non AC Seater (2+3),20:00,02:05,06h 05m,INR 473,32 Seats available,3.8
+133,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 1585,Super Express Non AC Seater Air Bus (2+2),20:31,03:41,07h 10m,INR 548,24 Seats available,3.8
+134,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 1586,Super Express Non AC Seater Air Bus (2+2),21:31,04:46,07h 15m,INR 548,39 Seats available,3.8
+135,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 2133,Swift Deluxe Non AC Air Bus (2+2),22:12,06:01,07h 49m,INR 548,25 Seats available,3.5
+136,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 2063,SWIFT-GARUDA A/C SEATER BUS,22:32,05:15,06h 43m,INR 524,8 Seats available,4.3
+137,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 574,Super Express Non AC Seater Air Bus (2+2),23:00,07:30,08h 30m,INR 377,32 Seats available,3.6
+138,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 583,Super Express Non AC Seater Air Bus (2+2),23:30,07:35,08h 05m,INR 377,17 Seats available,3.5
+139,Bangalore to Kalpetta (kerala),KSRTC (Kerala) - 56,SWIFT-GARUDA A/C SEATER BUS,23:41,07:15,07h 34m,INR 524,28 Seats available,4.4
+140,Bangalore to Kalpetta (kerala),DLT BUS,A/C Sleeper (2+1),22:30,05:30,07h 00m,INR 899,18 Seats available,4.2
+141,Bangalore to Kalpetta (kerala),MMK Travels,VE A/C Seater / Sleeper (2+1),22:30,05:30,07h 00m,INR 700,27 Seats available,4.3
+142,Bangalore to Kalpetta (kerala),Suraj Holidays,VE A/C Sleeper (2+1),22:30,06:15,07h 45m,INR 900,25 Seats available,4.7
+143,Bangalore to Kalpetta (kerala),DLT BUS,A/C Sleeper (2+1),22:30,05:20,06h 50m,INR 899,20 Seats available,4.2
+144,Bangalore to Kalpetta (kerala),Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),23:00,07:20,08h 20m,INR 599,34 Seats available,4.6
+145,Mysore to Kozhikode,KSRTC (Kerala) - 1129,Super Fast Non AC Seater (2+3),14:01,20:16,06h 15m,INR 273,36 Seats available,3.4
+146,Mysore to Kozhikode,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),14:46,20:40,05h 54m,INR 306,19 Seats available,4.0
+147,Mysore to Kozhikode,KSRTC (Kerala) - 52,SWIFT-GARUDA A/C SEATER BUS,14:50,19:55,05h 05m,INR 391,5 Seats available,1.8
+148,Mysore to Kozhikode,KSRTC (Kerala) - 1193,Super Fast Non AC Seater (2+3),15:45,21:35,05h 50m,INR 285,48 Seats available,4.6
+149,Mysore to Kozhikode,KSRTC (Kerala) - 1378,AC MULTI AXLE,16:26,20:50,04h 24m,INR 494,10 Seats available,4.0
+150,Mysore to Kozhikode,KSRTC (Kerala) - 712,Super Fast Non AC Seater (2+3),16:45,22:30,05h 45m,INR 285,50 Seats available,3.4
+151,Mysore to Kozhikode,KSRTC (Kerala) - 798,Super Fast Non AC Seater (2+3),17:00,23:00,06h 00m,INR 285,43 Seats available,4.0
+152,Mysore to Kozhikode,KSRTC (Kerala) - 2472,Garuda Premium,17:00,22:00,05h 00m,INR 1212,25 Seats available,4.0
+153,Mysore to Kozhikode,KSRTC (Kerala) - 235,Swift Deluxe Non AC Air Bus (2+2),17:30,00:01,06h 31m,INR 398,22 Seats available,4.0
+154,Mysore to Kozhikode,KSRTC (Kerala) - 129,SWIFT-GARUDA A/C SEATER BUS,17:30,22:50,05h 20m,INR 391,22 Seats available,2.7
+155,Mysore to Kozhikode,KSRTC (Kerala) - 370,AC MULTI AXLE,18:00,22:20,04h 20m,INR 494,8 Seats available,3.1
+156,Mysore to Kozhikode,KSRTC (Kerala) - 793,Super Fast Non AC Seater (2+3),18:30,00:00,05h 30m,INR 285,47 Seats available,3.6
+157,Mysore to Kozhikode,KSRTC (Kerala) - 97,Swift Deluxe Non AC Air Bus (2+2),18:51,00:50,05h 59m,INR 356,10 Seats available,4.0
+158,Mysore to Kozhikode,KSRTC (Kerala) - 171,Swift Deluxe Non AC Air Bus (2+2),19:10,01:20,06h 10m,INR 419,24 Seats available,4.0
+159,Mysore to Kozhikode,KSRTC (Kerala) - 553,Super Express Non AC Seater Air Bus (2+2),19:50,01:25,05h 35m,INR 419,4 Seats available,4.0
+160,Mysore to Kozhikode,KSRTC (Kerala) - 51,Swift Deluxe Non AC Air Bus (2+2),21:50,04:24,06h 34m,INR 419,39 Seats available,4.3
+161,Mysore to Kozhikode,KSRTC (Kerala) - 1077,Super Fast Non AC Seater (2+3),22:30,05:50,07h 20m,INR 319,50 Seats available,4.0
+162,Mysore to Kozhikode,KSRTC (Kerala) - 789,Super Fast Non AC Seater (2+3),22:30,04:25,05h 55m,INR 473,37 Seats available,4.0
+163,Mysore to Kozhikode,KSRTC (Kerala) - 1585,Super Express Non AC Seater Air Bus (2+2),23:36,05:36,06h 00m,INR 419,24 Seats available,4.2
+164,Mysore to Kozhikode,LIYAS TOURS,Bharat Benz A/C Sleeper (2+1),17:25,23:05,05h 40m,599,17 Seats available,4.1
+165,Mysore to Kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),17:30,23:30,06h 00m,INR 400,24 Seats available,3.3
+166,Mysore to Kozhikode,Suraj Holidays,NON AC Seater / Sleeper 2+1,23:00,06:00,07h 00m,INR 750,19 Seats available,4.3
+167,Mysore to Kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),23:30,05:45,06h 15m,INR 850,38 Seats available,3.0
+168,Mysore to Kozhikode,SKS Tours & Travels,A/C Sleeper (2+1),23:50,05:40,05h 50m,INR 849,23 Seats available,3.6
+169,Mysore to Kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),00:10,06:10,06h 00m,INR 700,26 Seats available,4.2
+170,Mysore to Kozhikode,NS Transports,Non A/C Seater / Sleeper (2+1),00:30,06:30,06h 00m,INR 700,19 Seats available,4.2
+171,Mysore to Kozhikode,National travels and logistics,NON A/C Sleeper (2+1),00:40,06:30,05h 50m,599,13 Seats available,3.5
+172,Mysore to Kozhikode,Sam Tourist,NON AC Seater / Sleeper 2+1,00:45,07:05,06h 20m,INR 599,27 Seats available,4.0
+173,Mysore to Kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),17:30,23:16,05h 46m,INR 600,30 Seats available,2.5
+174,Kalpetta (kerala) to Bangalore,KSRTC (Kerala) - 805,Super Fast Non AC Seater (2+3),15:32,22:32,07h 00m,INR 348,1 Seat available,3.8
+175,Kalpetta (kerala) to Bangalore,KSRTC (Kerala) - 72,SWIFT-GARUDA A/C SEATER BUS,20:35,03:35,07h 00m,INR 883,8 Seats available,3.4
+176,Kalpetta (kerala) to Bangalore,KSRTC (Kerala) - 1353,Super Express Non AC Seater Air Bus (2+2),22:00,05:10,07h 10m,INR 935,24 Seats available,3.5
+177,Kalpetta (kerala) to Bangalore,KSRTC (Kerala) - 197,Super Deluxe Non AC Seater Air Bus (2+2),22:35,06:30,07h 55m,INR 760,1 Seat available,2.0
+178,Kalpetta (kerala) to Bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),13:55,21:00,07h 05m,INR 899,18 Seats available,4.5
+179,Kalpetta (kerala) to Bangalore,MMK Travels,VE A/C Seater / Sleeper (2+1),23:45,06:00,06h 15m,INR 999,17 Seats available,4.3
+180,Kalpetta (kerala) to Bangalore,MMK Travels,VE A/C Seater / Sleeper (2+1),23:45,06:00,06h 15m,INR 999,17 Seats available,4.7
+181,Kalpetta (kerala) to Bangalore,Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),13:57,21:00,07h 03m,INR 899,18 Seats available,3.6
+182,Kalpetta (kerala) to Bangalore,DLT BUS,A/C Sleeper (2+1),23:45,06:30,06h 45m,INR 1199,14 Seats available,4.0
+183,Kozhikode to Thrissur,KSRTC (Kerala) - 1887,Low Floor AC Seater 2+2,13:30,16:50,03h 20m,INR 253,5 Seats available,3.1
+184,Kozhikode to Thrissur,KSRTC (Kerala) - 427,Super Fast Non AC Seater (2+3),13:55,17:55,04h 00m,INR 181,33 Seats available,3.1
+185,Kozhikode to Thrissur,KSRTC (Kerala) - 2369,Low Floor AC Seater 2+2,14:30,17:50,03h 20m,INR 253,5 Seats available,2.8
+186,Kozhikode to Thrissur,KSRTC (Kerala) - 766,Super Fast Non AC Seater (2+3),14:35,18:20,03h 45m,INR 181,48 Seats available,3.1
+187,Kozhikode to Thrissur,KSRTC (Kerala) - 993,Super Fast Non AC Seater (2+3),14:50,19:00,04h 10m,INR 174,42 Seats available,3.1
+188,Kozhikode to Thrissur,KSRTC (Kerala) - 2568,Super Fast Non AC Seater (2+3),15:30,19:15,03h 45m,INR 181,43 Seats available,3.1
+189,Kozhikode to Thrissur,KSRTC (Kerala) - 2391,Low Floor AC Seater 2+2,15:30,18:50,03h 20m,INR 253,31 Seats available,3.1
+190,Kozhikode to Thrissur,KSRTC (Kerala) - 720,Super Fast Non AC Seater (2+3),15:40,19:35,03h 55m,INR 181,37 Seats available,3.1
+191,Kozhikode to Thrissur,KSRTC (Kerala) - 758,Super Fast Non AC Seater (2+3),15:45,19:20,03h 35m,INR 181,48 Seats available,3.1
+192,Kozhikode to Thrissur,KSRTC (Kerala) - 689,Super Fast Non AC Seater (2+3),16:15,19:50,03h 35m,INR 181,49 Seats available,3.1
+193,Kozhikode to Thrissur,KSRTC (Kerala) - 1883,Low Floor AC Seater 2+2,16:30,19:50,03h 20m,INR 253,4 Seats available,2.7
+194,Kozhikode to Thrissur,KSRTC (Kerala) - 726,Super Fast Non AC Seater (2+3),17:00,20:20,03h 20m,INR 181,50 Seats available,3.1
+195,Kozhikode to Thrissur,KSRTC (Kerala) - 2716,Super Fast Non AC Seater (2+3),17:15,20:45,03h 30m,INR 181,46 Seats available,3.1
+196,Kozhikode to Thrissur,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),17:25,20:45,03h 20m,INR 181,20 Seats available,3.1
+197,Kozhikode to Thrissur,KSRTC (Kerala) - 1862,Low Floor AC Seater 2+2,17:30,21:00,03h 30m,INR 253,17 Seats available,3.1
+198,Kozhikode to Thrissur,KSRTC (Kerala) - 503,Super Express Non AC Seater Air Bus (2+2),17:42,20:40,02h 58m,INR 216,14 Seats available,3.1
+199,Kozhikode to Thrissur,KSRTC (Kerala) - 556,Super Express Non AC Seater Air Bus (2+2),18:00,20:50,02h 50m,INR 216,10 Seats available,3.1
+200,Kozhikode to Thrissur,KSRTC (Kerala) - 1872,Low Floor AC Seater 2+2,18:30,21:35,03h 05m,INR 253,8 Seats available,2.2
+201,Kozhikode to Thrissur,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),19:00,21:35,02h 35m,INR 216,7 Seats available,3.1
+202,Kozhikode to Thrissur,KSRTC (Kerala) - 814,Super Fast Non AC Seater (2+3),19:15,22:45,03h 30m,INR 181,48 Seats available,3.1
+203,Kozhikode to Thrissur,KSRTC (Kerala) - 1900,Super Fast Non AC Seater (2+3),19:35,23:10,03h 35m,INR 181,41 Seats available,3.1
+204,Kozhikode to Thrissur,KSRTC (Kerala) - 467,Super Express Non AC Seater Air Bus (2+2),19:55,22:50,02h 55m,INR 216,10 Seats available,3.1
+205,Kozhikode to Thrissur,KSRTC (Kerala) - 1956,Super Fast Non AC Seater (2+3),20:00,23:30,03h 30m,INR 181,9 Seats available,3.1
+206,Kozhikode to Thrissur,KSRTC (Kerala) - 564,Super Express Non AC Seater Air Bus (2+2),20:12,22:40,02h 28m,INR 216,3 Seats available,3.1
+207,Kozhikode to Thrissur,KSRTC (Kerala) - 46,Swift Deluxe Non AC Air Bus (2+2),20:25,23:00,02h 35m,INR 216,3 Seats available,3.1
+208,Kozhikode to Thrissur,KSRTC (Kerala) - 2393,Low Floor AC Seater 2+2,20:30,23:35,03h 05m,INR 253,11 Seats available,3.1
+209,Kozhikode to Thrissur,KSRTC (Kerala) - 2206,Super Express Non AC Seater Air Bus (2+2),20:34,23:29,02h 55m,INR 216,9 Seats available,3.1
+210,Kozhikode to Thrissur,KSRTC (Kerala) - 1506,Super Fast Non AC Seater (2+3),20:35,00:10,03h 35m,INR 181,45 Seats available,3.1
+211,Kozhikode to Thrissur,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),20:40,00:15,03h 35m,INR 201,27 Seats available,3.1
+212,Kozhikode to Thrissur,KSRTC (Kerala) - 424,Super Fast Non AC Seater (2+3),20:45,00:30,03h 45m,INR 181,17 Seats available,3.1
+213,Kozhikode to Thrissur,KSRTC (Kerala) - 1378,AC MULTI AXLE,20:50,00:14,03h 24m,INR 340,24 Seats available,3.1
+214,Kozhikode to Thrissur,KSRTC (Kerala) - 827,Super Fast Non AC Seater (2+3),21:00,00:30,03h 30m,INR 181,40 Seats available,3.1
+215,Kozhikode to Thrissur,KSRTC (Kerala) - 815,Super Fast Non AC Seater (2+3),21:10,00:55,03h 45m,INR 181,37 Seats available,3.1
+216,Kozhikode to Thrissur,KSRTC (Kerala) - 531,Super Express Non AC Seater Air Bus (2+2),21:15,23:40,02h 25m,INR 216,5 Seats available,3.1
+217,Kozhikode to Thrissur,KSRTC (Kerala) - 1880,Low Floor AC Seater 2+2,21:30,00:35,03h 05m,INR 253,16 Seats available,3.7
+218,Kozhikode to Thrissur,KSRTC (Kerala) - 344,Super Fast Non AC Seater (2+3),21:45,01:05,03h 20m,INR 181,40 Seats available,3.1
+219,Kozhikode to Thrissur,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),21:50,00:40,02h 50m,INR 216,10 Seats available,3.1
+220,Kozhikode to Thrissur,KSRTC (Kerala) - 1212,AC MULTI AXLE,22:00,00:30,02h 30m,INR 340,14 Seats available,3.1
+221,Kozhikode to Thrissur,KSRTC (Kerala) - 409,Super Express Non AC Seater Air Bus (2+2),22:15,00:45,02h 30m,INR 216,7 Seats available,3.1
+222,Kozhikode to Thrissur,KSRTC (Kerala) - 370,AC MULTI AXLE,22:20,01:20,03h 00m,INR 340,7 Seats available,3.1
+223,Kozhikode to Thrissur,KSRTC (Kerala) - 2743,Super Express Non AC Seater Air Bus (2+2),22:20,01:15,02h 55m,INR 216,13 Seats available,3.1
+224,Kozhikode to Thrissur,KSRTC (Kerala) - 666,Super Fast Non AC Seater (2+3),22:25,01:55,03h 30m,INR 181,33 Seats available,3.1
+225,Kozhikode to Thrissur,KSRTC (Kerala) - 2724,Super Fast Non AC Seater (2+3),22:30,02:00,03h 30m,INR 174,34 Seats available,3.1
+226,Kozhikode to Thrissur,KSRTC (Kerala) - 1841,Low Floor AC Seater 2+2,22:30,01:40,03h 10m,INR 253,9 Seats available,3.1
+227,Kozhikode to Thrissur,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),22:35,01:50,03h 15m,INR 216,12 Seats available,3.1
+228,Kozhikode to Thrissur,KSRTC (Kerala) - 582,Super Express Non AC Seater Air Bus (2+2),22:40,01:45,03h 05m,INR 201,2 Seats available,3.1
+229,Kozhikode to Thrissur,KSRTC (Kerala) - 781,Super Fast Non AC Seater (2+3),22:45,02:10,03h 25m,INR 181,23 Seats available,3.1
+230,Kozhikode to Thrissur,KSRTC (Kerala) - 586,Super Express Non AC Seater Air Bus (2+2),22:50,02:05,03h 15m,INR 201,3 Seats available,3.1
+231,Kozhikode to Thrissur,KSRTC (Kerala) - 129,SWIFT-GARUDA A/C SEATER BUS,22:50,01:05,02h 15m,INR 227,39 Seats available,3.1
+232,Kozhikode to Thrissur,KSRTC (Kerala) - 128,Super Deluxe Non AC Seater Air Bus (2+2),22:55,01:35,02h 40m,INR 216,29 Seats available,3.1
+233,Kozhikode to Thrissur,KSRTC (Kerala) - 798,Super Fast Non AC Seater (2+3),23:00,02:10,03h 10m,INR 181,49 Seats available,3.1
+234,Kozhikode to Thrissur,KSRTC (Kerala) - 1011,Super Fast Non AC Seater (2+3),23:00,02:25,03h 25m,INR 174,6 Seats available,3.1
+235,Kozhikode to Thrissur,KSRTC (Kerala) - 279,Super Fast Non AC Seater (2+3),23:05,02:50,03h 45m,INR 181,16 Seats available,3.1
+236,Kozhikode to Thrissur,KSRTC (Kerala) - 314,Super Fast Non AC Seater (2+3),23:15,02:45,03h 30m,INR 181,29 Seats available,3.1
+237,Kozhikode to Thrissur,KSRTC (Kerala) - 543,Super Express Non AC Seater Air Bus (2+2),23:20,02:20,03h 00m,INR 201,1 Seat available,3.1
+238,Kozhikode to Thrissur,KSRTC (Kerala) - 673,Super Fast Non AC Seater (2+3),23:25,02:40,03h 15m,INR 181,24 Seats available,3.1
+239,Kozhikode to Thrissur,KSRTC (Kerala) - 1843,Low Floor AC Seater 2+2,23:30,02:35,03h 05m,INR 253,9 Seats available,3.1
+240,Kozhikode to Thrissur,KSRTC (Kerala) - 516,Super Express Non AC Seater Air Bus (2+2),23:40,02:00,02h 20m,INR 216,6 Seats available,3.1
+241,Kozhikode to Thrissur,KSRTC (Kerala) - 1963,Super Fast Non AC Seater (2+3),23:45,03:05,03h 20m,INR 181,29 Seats available,3.1
+242,Kozhikode to Thrissur,KSRTC (Kerala) - 345,Super Fast Non AC Seater (2+3),23:55,03:35,03h 40m,INR 181,30 Seats available,3.1
+243,Kozhikode to Thrissur,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),23:59,02:15,02h 16m,INR 216,3 Seats available,3.1
+244,Kozhikode to Thrissur,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),21:55,00:30,02h 35m,INR 762,37 Seats available,3.1
+245,Kozhikode to Thrissur,BLM Transports,A/C Sleeper (2+1),22:00,01:00,03h 00m,903,19 Seats available,3.9
+246,Kozhikode to Thrissur,Madhavi Travels,A/C Sleeper (2+1),22:20,01:10,02h 50m,999,9 Seats available,4.0
+247,Kozhikode to Thrissur,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),23:15,01:40,02h 25m,INR 850,28 Seats available,3.2
+248,Kozhikode to Thrissur,A1 Travels,Bharat Benz A/C Sleeper (2+1),23:30,01:30,02h 00m,INR 900,26 Seats available,3.3
+249,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 588,Super Express Non AC Seater Air Bus (2+2),13:32,00:00,10h 28m,INR 555,7 Seats available,3.1
+250,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1211,AC MULTI AXLE,14:15,00:05,09h 50m,INR 1417,35 Seats available,3.6
+251,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 2388,Low Floor AC Seater 2+2,15:00,01:30,10h 30m,INR 723,10 Seats available,3.1
+252,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1106,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,15:30,02:50,11h 20m,INR 729,4 Seats available,3.1
+253,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 486,Super Express Non AC Seater Air Bus (2+2),15:45,00:30,08h 45m,INR 586,13 Seats available,3.5
+254,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1377,AC MULTI AXLE,16:01,01:10,09h 09m,INR 1376,12 Seats available,3.1
+255,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 667,Super Fast Non AC Seater (2+3),16:15,02:30,10h 15m,INR 477,44 Seats available,3.1
+256,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 862,Super Fast Non AC Seater (2+3),16:20,04:40,12h 20m,INR 502,47 Seats available,3.1
+257,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 570,Super Express Non AC Seater Air Bus (2+2),16:45,01:45,09h 00m,INR 586,28 Seats available,3.1
+258,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1842,Low Floor AC Seater 2+2,17:00,03:10,10h 10m,INR 723,20 Seats available,3.1
+259,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 431,Super Fast Non AC Seater (2+3),17:15,04:45,11h 30m,INR 515,35 Seats available,3.1
+260,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 368,AC MULTI AXLE,17:25,03:05,09h 40m,INR 1417,33 Seats available,3.1
+261,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 43,Swift Deluxe Non AC Air Bus (2+2),17:40,03:21,09h 41m,INR 586,2 Seats available,3.1
+262,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1845,Low Floor AC Seater 2+2,18:00,04:10,10h 10m,INR 742,9 Seats available,3.1
+263,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1199,Super Express Non AC Seater Air Bus (2+2),18:11,04:05,09h 54m,INR 565,3 Seats available,3.1
+264,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 47,Swift Deluxe Non AC Air Bus (2+2),18:30,03:52,09h 22m,INR 586,8 Seats available,3.1
+265,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 2364,Low Floor AC Seater 2+2,19:00,05:10,10h 10m,INR 723,9 Seats available,3.1
+266,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 49,Swift Deluxe Non AC Air Bus (2+2),19:10,04:20,09h 10m,INR 565,1 Seat available,3.1
+267,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 425,Super Express Non AC Seater Air Bus (2+2),19:15,04:10,08h 55m,INR 545,3 Seats available,3.1
+268,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 507,Super Express Non AC Seater Air Bus (2+2),20:00,03:35,07h 35m,INR 565,4 Seats available,3.1
+269,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1855,Low Floor AC Seater 2+2,21:00,07:00,10h 00m,INR 723,1 Seat available,3.1
+270,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1124,Super Express Non AC Seater Air Bus (2+2),21:01,05:45,08h 44m,INR 586,2 Seats available,2.3
+271,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 1858,Low Floor AC Seater 2+2,22:00,07:50,09h 50m,INR 742,1 Seat available,2.4
+272,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 325,Super Fast Non AC Seater (2+3),22:05,08:35,10h 30m,INR 515,18 Seats available,4.3
+273,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 2026,Super Express Non AC Seater Air Bus (2+2),22:35,08:02,09h 27m,INR 565,2 Seats available,3.1
+274,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 2543,Super Express Non AC Seater Air Bus (2+2),22:50,09:50,11h 00m,INR 586,13 Seats available,3.1
+275,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 2366,Low Floor AC Seater 2+2,23:00,09:15,10h 15m,INR 723,3 Seats available,3.1
+276,Thiruvananthapuram to Kozhikode,KSRTC (Kerala) - 500,Super Express Non AC Seater Air Bus (2+2),23:45,07:25,07h 40m,INR 586,2 Seats available,3.1
+277,Thiruvananthapuram to Kozhikode,BLM Transports,A/C Sleeper (2+1),20:15,05:00,08h 45m,1131,9 Seats available,4.4
+278,Thiruvananthapuram to Kozhikode,Madhavi Travels,A/C Sleeper (2+1),19:50,04:30,08h 40m,999,9 Seats available,4.4
+279,Thiruvananthapuram to Kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),21:35,07:00,09h 25m,INR 700,21 Seats available,3.5
+280,Thiruvananthapuram to Kozhikode,A1 Travels,Bharat Benz A/C Seater /Sleeper (2+1),20:30,05:00,08h 30m,INR 800,17 Seats available,3.0
+281,Thiruvananthapuram to Kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),19:00,04:00,09h 00m,INR 900,25 Seats available,2.7
+282,Bangalore to Kannur,KSRTC (Kerala) - 136,Swift Deluxe Non AC Air Bus (2+2),20:30,04:25,07h 55m,INR 568,22 Seats available,2.8
+283,Bangalore to Kannur,KSRTC (Kerala) - 101,Swift Deluxe Non AC Air Bus (2+2),21:16,04:05,06h 49m,INR 548,30 Seats available,4.3
+284,Bangalore to Kannur,KSRTC (Kerala) - 98,Swift Deluxe Non AC Air Bus (2+2),21:30,05:45,08h 15m,INR 579,25 Seats available,3.6
+285,Bangalore to Kannur,KSRTC (Kerala) - 1767,Super Express Non AC Seater Air Bus (2+2),23:01,06:46,07h 45m,INR 568,20 Seats available,4.4
+286,Bangalore to Kannur,NS Transports,A/C Sleeper (2+1),22:15,05:35,07h 20m,INR 950,18 Seats available,4.6
+287,Bangalore to Kannur,MMK Travels,A/C Sleeper (2+1),22:15,05:30,07h 15m,INR 900,13 Seats available,4.5
+288,Bangalore to Kannur,Kalpaka Travels,A/C Sleeper (2+1),22:10,05:00,06h 50m,INR 900,16 Seats available,4.5
+289,Bangalore to Kannur,AdSAAM BUS,Bharat Benz A/C Sleeper (2+1),20:10,04:45,08h 35m,808,15 Seats available,4.1
+290,Bangalore to Kannur,GOLDEN TRAVEL AGENCIES,Volvo A/C Semi Sleeper (2+2),22:45,04:45,06h 00m,INR 899,21 Seats available,4.4
+291,Kozhikode to Kottayam,KSRTC (Kerala) - 2568,Super Fast Non AC Seater (2+3),15:30,22:45,07h 15m,INR 332,42 Seats available,2.5
+292,Kozhikode to Kottayam,KSRTC (Kerala) - 726,Super Fast Non AC Seater (2+3),17:00,00:05,07h 05m,INR 332,50 Seats available,1.6
+293,Kozhikode to Kottayam,KSRTC (Kerala) - 1862,Low Floor AC Seater 2+2,17:30,00:25,06h 55m,INR 475,15 Seats available,2.1
+294,Kozhikode to Kottayam,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),19:00,00:40,05h 40m,INR 381,7 Seats available,2.4
+295,Kozhikode to Kottayam,KSRTC (Kerala) - 2206,Super Express Non AC Seater Air Bus (2+2),20:34,02:24,05h 50m,INR 381,7 Seats available,2.5
+296,Kozhikode to Kottayam,KSRTC (Kerala) - 1506,Super Fast Non AC Seater (2+3),20:35,04:05,07h 30m,INR 332,42 Seats available,2.5
+297,Kozhikode to Kottayam,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),20:40,03:29,06h 49m,INR 360,27 Seats available,2.5
+298,Kozhikode to Kottayam,KSRTC (Kerala) - 1880,Low Floor AC Seater 2+2,21:30,04:05,06h 35m,INR 475,11 Seats available,2.5
+299,Kozhikode to Kottayam,KSRTC (Kerala) - 344,Super Fast Non AC Seater (2+3),21:45,04:25,06h 40m,INR 332,39 Seats available,2.5
+300,Kozhikode to Kottayam,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),21:50,03:45,05h 55m,INR 381,5 Seats available,2.5
+301,Kozhikode to Kottayam,KSRTC (Kerala) - 2743,Super Express Non AC Seater Air Bus (2+2),22:20,04:45,06h 25m,INR 381,4 Seats available,2.5
+302,Kozhikode to Kottayam,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),22:35,05:00,06h 25m,INR 381,10 Seats available,2.5
+303,Kozhikode to Kottayam,KSRTC (Kerala) - 1704,Super Fast Non AC Seater (2+3),22:40,05:41,07h 01m,INR 341,21 Seats available,2.5
+304,Kozhikode to Kottayam,KSRTC (Kerala) - 128,Super Deluxe Non AC Seater Air Bus (2+2),22:55,04:10,05h 15m,INR 381,21 Seats available,2.5
+305,Kozhikode to Kottayam,KSRTC (Kerala) - 673,Super Fast Non AC Seater (2+3),23:25,05:55,06h 30m,INR 332,17 Seats available,2.8
+306,Kozhikode to Kottayam,KSRTC (Kerala) - 1843,Low Floor AC Seater 2+2,23:30,05:50,06h 20m,INR 475,3 Seats available,2.4
+307,Kozhikode to Kottayam,KSRTC (Kerala) - 1963,Super Fast Non AC Seater (2+3),23:45,06:00,06h 15m,INR 332,29 Seats available,2.5
+308,Kozhikode to Kottayam,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),23:59,04:45,04h 46m,INR 381,1 Seat available,2.3
+309,Kozhikode to Kottayam,A1 Travels,A/C Seater / Sleeper (2+1),20:05,03:00,06h 55m,INR 750,26 Seats available,3.9
+310,Kozhikode to Kottayam,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),21:55,03:30,05h 35m,INR 800,18 Seats available,3.2
+311,Kozhikode to Kottayam,Madhavi Travels,Volvo A/C Semi Sleeper (2+2),23:30,04:50,05h 20m,999,20 Seats available,4.0
+312,Kozhikode to Kottayam,Atlas Travels,Volvo Multi-Axle A/C Semi Sleeper (2+2),22:00,05:00,07h 00m,INR 3500,49 Seats available,2.8
+313,Kannur to Bangalore,KSRTC (Kerala) - 100,Swift Deluxe Non AC Air Bus (2+2),19:03,02:21,07h 18m,INR 709,6 Seats available,4.6
+314,Kannur to Bangalore,KSRTC (Kerala) - 1696,Super Express Non AC Seater Air Bus (2+2),20:45,04:50,08h 05m,INR 760,29 Seats available,4.1
+315,Kannur to Bangalore,NS Transports,A/C Sleeper (2+1),21:15,05:30,08h 15m,INR 1200,1 Seat available,4.6
+316,Kannur to Bangalore,Ashoka Travel and Logistics,A/C Sleeper (2+1),21:15,05:30,08h 15m,INR 1300,2 Seats available,4.5
+317,Kannur to Bangalore,MMK Travels,A/C Sleeper (2+1),21:30,06:00,08h 30m,INR 1299,9 Seats available,4.4
+318,Kannur to Bangalore,NS Transports,NON A/C Sleeper (2+1),21:45,05:45,08h 00m,INR 1000,3 Seats available,4.3
+319,Kannur to Bangalore,Ashoka Travel and Logistics,A/C Semi Sleeper (2+2),21:00,05:15,08h 15m,INR 1100,9 Seats available,4.1
+320,Kottayam to Kozhikode,KSRTC (Kerala) - 1886,Low Floor AC Seater 2+2,14:30,21:20,06h 50m,INR 475,2 Seats available,1.8
+321,Kottayam to Kozhikode,KSRTC (Kerala) - 1902,Super Fast Non AC Seater (2+3),15:45,23:00,07h 15m,INR 332,44 Seats available,3.2
+322,Kottayam to Kozhikode,KSRTC (Kerala) - 757,Super Fast Non AC Seater (2+3),16:05,23:20,07h 15m,INR 332,36 Seats available,3.2
+323,Kottayam to Kozhikode,KSRTC (Kerala) - 1877,Low Floor AC Seater 2+2,16:30,23:20,06h 50m,INR 475,9 Seats available,3.2
+324,Kottayam to Kozhikode,KSRTC (Kerala) - 1962,Super Fast Non AC Seater (2+3),17:00,23:59,06h 59m,INR 332,47 Seats available,3.2
+325,Kottayam to Kozhikode,KSRTC (Kerala) - 542,Super Express Non AC Seater Air Bus (2+2),17:30,01:00,07h 30m,INR 386,14 Seats available,3.2
+326,Kottayam to Kozhikode,KSRTC (Kerala) - 1703,Super Fast Non AC Seater (2+3),17:40,01:25,07h 45m,INR 341,19 Seats available,3.2
+327,Kottayam to Kozhikode,KSRTC (Kerala) - 561,Super Express Non AC Seater Air Bus (2+2),18:00,00:50,06h 50m,INR 463,21 Seats available,3.2
+328,Kottayam to Kozhikode,KSRTC (Kerala) - 125,Super Deluxe Non AC Seater Air Bus (2+2),18:05,23:35,05h 30m,INR 494,33 Seats available,3.2
+329,Kottayam to Kozhikode,KSRTC (Kerala) - 2131,Super Express Non AC Seater Air Bus (2+2),18:30,01:50,07h 20m,INR 370,25 Seats available,3.2
+330,Kottayam to Kozhikode,KSRTC (Kerala) - 475,Super Express Non AC Seater Air Bus (2+2),18:45,00:35,05h 50m,INR 494,28 Seats available,3.2
+331,Kottayam to Kozhikode,KSRTC (Kerala) - 2388,Low Floor AC Seater 2+2,18:50,01:30,06h 40m,INR 475,21 Seats available,3.2
+332,Kottayam to Kozhikode,KSRTC (Kerala) - 1377,AC MULTI AXLE,19:05,01:10,06h 05m,INR 924,16 Seats available,1.8
+333,Kottayam to Kozhikode,KSRTC (Kerala) - 1106,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,19:40,02:50,07h 10m,INR 494,4 Seats available,3.2
+334,Kottayam to Kozhikode,KSRTC (Kerala) - 559,Super Express Non AC Seater Air Bus (2+2),19:46,02:10,06h 24m,INR 381,21 Seats available,3.2
+335,Kottayam to Kozhikode,KSRTC (Kerala) - 1028,Super Fast Non AC Seater (2+3),20:10,03:30,07h 20m,INR 355,35 Seats available,3.2
+336,Kottayam to Kozhikode,KSRTC (Kerala) - 2071,Super Express Non AC Seater Air Bus (2+2),20:30,02:30,06h 00m,INR 350,10 Seats available,3.2
+337,Kottayam to Kozhikode,KSRTC (Kerala) - 1842,Low Floor AC Seater 2+2,20:55,03:10,06h 15m,INR 475,23 Seats available,3.2
+338,Kottayam to Kozhikode,KSRTC (Kerala) - 852,Super Fast Non AC Seater (2+3),21:00,03:30,06h 30m,INR 332,42 Seats available,3.2
+339,Kottayam to Kozhikode,KSRTC (Kerala) - 847,Super Fast Non AC Seater (2+3),21:15,03:45,06h 30m,INR 332,44 Seats available,3.2
+340,Kottayam to Kozhikode,KSRTC (Kerala) - 862,Super Fast Non AC Seater (2+3),21:20,04:40,07h 20m,INR 332,47 Seats available,3.2
+341,Kottayam to Kozhikode,KSRTC (Kerala) - 523,Super Express Non AC Seater Air Bus (2+2),21:30,02:20,04h 50m,INR 381,2 Seats available,3.4
+342,Kottayam to Kozhikode,KSRTC (Kerala) - 91,Swift Deluxe Non AC Air Bus (2+2),21:35,03:25,05h 50m,INR 494,14 Seats available,3.2
+343,Kottayam to Kozhikode,KSRTC (Kerala) - 672,Super Fast Non AC Seater (2+3),21:50,04:15,06h 25m,INR 332,36 Seats available,3.1
+344,Kottayam to Kozhikode,KSRTC (Kerala) - 1199,Super Express Non AC Seater Air Bus (2+2),21:55,04:05,06h 10m,INR 381,3 Seats available,3.2
+345,Kottayam to Kozhikode,KSRTC (Kerala) - 49,Swift Deluxe Non AC Air Bus (2+2),22:20,04:20,06h 00m,INR 381,1 Seat available,2.9
+346,Kottayam to Kozhikode,KSRTC (Kerala) - 2364,Low Floor AC Seater 2+2,22:40,05:10,06h 30m,INR 475,6 Seats available,3.2
+347,Kottayam to Kozhikode,KSRTC (Kerala) - 2690,Super Fast Non AC Seater (2+3),23:06,05:30,06h 24m,INR 332,3 Seats available,3.2
+348,Kottayam to Kozhikode,A1 Travels,A/C Seater / Sleeper (2+1),23:59,07:00,07h 01m,INR 700,24 Seats available,2.8
+349,Kottayam to Kozhikode,Ubc travels,A/C Semi Sleeper (2+2),17:30,01:00,07h 30m,INR 700,17 Seats available,3.8
+350,Kottayam to Kozhikode,Sonia Travels,A/C Seater/Sleeper (2+1),19:15,02:29,07h 14m,INR 750,20 Seats available,3.8
+351,Kottayam to Kozhikode,Ubc travels,A/C Seater/Sleeper (2+1),18:00,03:00,09h 00m,INR 900,23 Seats available,3.8
+352,Kottayam to Kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),18:15,01:25,07h 10m,INR 1100,11 Seats available,3.2
+353,Kottayam to Kozhikode,EMERALD TRAVELS,Bharat Benz A/C Semi Sleeper (2+2),23:00,04:30,05h 30m,INR 800,32 Seats available,3.2
+354,Kottayam to Kozhikode,EMERALD TRAVELS,A/C Sleeper (2+1),23:00,04:30,05h 30m,INR 1000,18 Seats available,3.2
+355,Kottayam to Kozhikode,Jacobs Travels,A/C Semi Sleeper (2+2),18:30,02:30,08h 00m,INR 800,35 Seats available,2.9
+356,Thrissur to Kozhikode,KSRTC (Kerala) - 779,Super Fast Non AC Seater (2+3),18:00,21:45,03h 45m,INR 181,50 Seats available,2.9
+357,Thrissur to Kozhikode,KSRTC (Kerala) - 2711,Super Fast Non AC Seater (2+3),18:10,21:30,03h 20m,INR 181,48 Seats available,2.9
+358,Thrissur to Kozhikode,KSRTC (Kerala) - 74,Swift Deluxe Non AC Air Bus (2+2),19:05,21:55,02h 50m,INR 278,38 Seats available,2.9
+359,Thrissur to Kozhikode,KSRTC (Kerala) - 723,Super Fast Non AC Seater (2+3),19:15,22:45,03h 30m,INR 181,46 Seats available,2.9
+360,Thrissur to Kozhikode,KSRTC (Kerala) - 549,Super Express Non AC Seater Air Bus (2+2),19:30,22:15,02h 45m,INR 278,12 Seats available,2.9
+361,Thrissur to Kozhikode,KSRTC (Kerala) - 831,Super Fast Non AC Seater (2+3),19:35,22:25,02h 50m,INR 166,50 Seats available,2.9
+362,Thrissur to Kozhikode,KSRTC (Kerala) - 1902,Super Fast Non AC Seater (2+3),19:40,23:00,03h 20m,INR 181,41 Seats available,2.9
+363,Thrissur to Kozhikode,KSRTC (Kerala) - 2572,Super Fast Non AC Seater (2+3),19:40,23:50,04h 10m,INR 174,40 Seats available,2.9
+364,Thrissur to Kozhikode,KSRTC (Kerala) - 757,Super Fast Non AC Seater (2+3),19:45,23:20,03h 35m,INR 181,43 Seats available,2.9
+365,Thrissur to Kozhikode,KSRTC (Kerala) - 96,Swift Deluxe Non AC Air Bus (2+2),19:50,23:05,03h 15m,INR 278,22 Seats available,2.9
+366,Thrissur to Kozhikode,KSRTC (Kerala) - 994,Super Fast Non AC Seater (2+3),20:00,00:05,04h 05m,INR 174,43 Seats available,2.9
+367,Thrissur to Kozhikode,KSRTC (Kerala) - 2712,Super Fast Non AC Seater (2+3),20:00,22:50,02h 50m,INR 166,49 Seats available,2.9
+368,Thrissur to Kozhikode,KSRTC (Kerala) - 170,Swift Deluxe Non AC Air Bus (2+2),20:25,23:50,03h 25m,INR 278,9 Seats available,2.9
+369,Thrissur to Kozhikode,KSRTC (Kerala) - 2517,Swift Deluxe Non AC Air Bus (2+2),20:26,23:16,02h 50m,INR 278,38 Seats available,2.9
+370,Thrissur to Kozhikode,KSRTC (Kerala) - 2569,Super Fast Non AC Seater (2+3),20:35,00:35,04h 00m,INR 174,42 Seats available,2.9
+371,Thrissur to Kozhikode,KSRTC (Kerala) - 125,Super Deluxe Non AC Seater Air Bus (2+2),20:40,23:35,02h 55m,INR 278,29 Seats available,2.9
+372,Thrissur to Kozhikode,KSRTC (Kerala) - 1962,Super Fast Non AC Seater (2+3),20:45,23:59,03h 14m,INR 181,46 Seats available,2.9
+373,Thrissur to Kozhikode,KSRTC (Kerala) - 665,Super Fast Non AC Seater (2+3),20:50,00:15,03h 25m,INR 181,42 Seats available,2.9
+374,Thrissur to Kozhikode,KSRTC (Kerala) - 1211,AC MULTI AXLE,20:55,00:05,03h 10m,INR 504,38 Seats available,2.9
+375,Thrissur to Kozhikode,KSRTC (Kerala) - 588,Super Express Non AC Seater Air Bus (2+2),21:00,00:00,03h 00m,INR 201,18 Seats available,2.9
+376,Thrissur to Kozhikode,KSRTC (Kerala) - 1901,Super Fast Non AC Seater (2+3),21:20,00:30,03h 10m,INR 181,48 Seats available,2.9
+377,Thrissur to Kozhikode,KSRTC (Kerala) - 2367,Low Floor AC Seater 2+2,21:30,00:30,03h 00m,INR 253,23 Seats available,2.9
+378,Thrissur to Kozhikode,KSRTC (Kerala) - 561,Super Express Non AC Seater Air Bus (2+2),21:35,00:50,03h 15m,INR 258,20 Seats available,2.9
+379,Thrissur to Kozhikode,KSRTC (Kerala) - 475,Super Express Non AC Seater Air Bus (2+2),21:40,00:35,02h 55m,INR 278,30 Seats available,2.9
+380,Thrissur to Kozhikode,KSRTC (Kerala) - 2723,Super Fast Non AC Seater (2+3),21:45,01:10,03h 25m,INR 174,38 Seats available,2.9
+381,Thrissur to Kozhikode,KSRTC (Kerala) - 542,Super Express Non AC Seater Air Bus (2+2),21:50,01:00,03h 10m,INR 201,11 Seats available,2.9
+382,Thrissur to Kozhikode,KSRTC (Kerala) - 594,Super Express Non AC Seater Air Bus (2+2),21:55,01:25,03h 30m,INR 201,15 Seats available,2.9
+383,Thrissur to Kozhikode,KSRTC (Kerala) - 486,Super Express Non AC Seater Air Bus (2+2),22:00,00:30,02h 30m,INR 216,17 Seats available,2.9
+384,Thrissur to Kozhikode,KSRTC (Kerala) - 819,Super Fast Non AC Seater (2+3),22:05,01:45,03h 40m,INR 181,47 Seats available,2.9
+385,Thrissur to Kozhikode,KSRTC (Kerala) - 1955,Super Fast Non AC Seater (2+3),22:20,01:35,03h 15m,INR 181,32 Seats available,2.9
+386,Thrissur to Kozhikode,KSRTC (Kerala) - 2388,Low Floor AC Seater 2+2,22:25,01:30,03h 05m,INR 253,23 Seats available,2.9
+387,Thrissur to Kozhikode,KSRTC (Kerala) - 1377,AC MULTI AXLE,22:30,01:10,02h 40m,INR 504,13 Seats available,2.9
+388,Thrissur to Kozhikode,KSRTC (Kerala) - 2131,Super Express Non AC Seater Air Bus (2+2),22:35,01:50,03h 15m,INR 201,26 Seats available,2.9
+389,Thrissur to Kozhikode,KSRTC (Kerala) - 515,Super Express Non AC Seater Air Bus (2+2),22:55,01:25,02h 30m,INR 216,6 Seats available,2.9
+390,Thrissur to Kozhikode,KSRTC (Kerala) - 811,Super Fast Non AC Seater (2+3),23:00,02:20,03h 20m,INR 181,42 Seats available,2.9
+391,Thrissur to Kozhikode,KSRTC (Kerala) - 570,Super Express Non AC Seater Air Bus (2+2),23:05,01:45,02h 40m,INR 216,26 Seats available,2.9
+392,Thrissur to Kozhikode,KSRTC (Kerala) - 559,Super Express Non AC Seater Air Bus (2+2),23:10,02:10,03h 00m,INR 216,21 Seats available,2.9
+393,Thrissur to Kozhikode,KSRTC (Kerala) - 312,Super Fast Non AC Seater (2+3),23:15,02:45,03h 30m,INR 181,33 Seats available,2.9
+394,Thrissur to Kozhikode,KSRTC (Kerala) - 1106,SWIFT-HYBRID NON AC SEATER CUM SLEEPER,23:25,02:50,03h 25m,INR 278,4 Seats available,2.9
+395,Thrissur to Kozhikode,KSRTC (Kerala) - 1882,Low Floor AC Seater 2+2,23:25,02:30,03h 05m,INR 253,23 Seats available,2.9
+396,Thrissur to Kozhikode,KSRTC (Kerala) - 585,Super Express Non AC Seater Air Bus (2+2),23:30,02:55,03h 25m,INR 201,25 Seats available,2.9
+397,Thrissur to Kozhikode,KSRTC (Kerala) - 915,Super Fast Non AC Seater (2+3),23:45,03:10,03h 25m,INR 174,24 Seats available,2.9
+398,Thrissur to Kozhikode,Sheraton Tours and Travels,A/C Seater/Sleeper (2+1),22:27,01:45,03h 18m,480,20 Seats available,4.3
+399,Thrissur to Kozhikode,Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),22:30,01:25,02h 55m,INR 1100,11 Seats available,3.2
+400,Thrissur to Kozhikode,Ubc travels,A/C Semi Sleeper (2+2),22:30,01:00,02h 30m,INR 700,17 Seats available,3.8
+401,Thrissur to Kozhikode,Adrin Travels,A/C Seater/Sleeper (2+1),23:05,02:00,02h 55m,INR 800,19 Seats available,4.0
+402,Thrissur to Kozhikode,Madhavi Travels,A/C Semi Sleeper (2+2),23:20,02:15,02h 55m,549,16 Seats available,4.0
+403,Kozhikode to Kalpetta (kerala),Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:35,14:25,01h 50m,INR 300,26 Seats available,4.1
+404,Kozhikode to Kalpetta (kerala),Kyros Connect,Bharat Benz A/C Semi Sleeper (2+2),12:35,15:40,03h 05m,INR 300,27 Seats available,4.1
+405,Kozhikode to Kalpetta (kerala),Kallada Travels (Suresh Kallada),A/C Sleeper (2+1),14:15,16:40,02h 25m,INR 1000,21 Seats available,3.2
+406,Coimbatore to Ooty,KSRTC (Kerala) - 966,Super Fast Non AC Seater (2+3),19:00,21:30,02h 30m,INR 103,44 Seats available,4.0
+407,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 323,Super Fast Non AC Seater (2+3),15:30,17:25,01h 55m,INR 111,22 Seats available,2.4
+408,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 48,Swift Deluxe Non AC Air Bus (2+2),17:10,19:00,01h 50m,INR 145,27 Seats available,3.8
+409,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 814,Super Fast Non AC Seater (2+3),17:15,19:15,02h 00m,INR 111,44 Seats available,3.6
+410,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 1129,Super Fast Non AC Seater (2+3),17:31,20:16,02h 45m,INR 108,38 Seats available,2.7
+411,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 567,Super Express Non AC Seater Air Bus (2+2),18:01,20:40,02h 39m,INR 129,19 Seats available,3.6
+412,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 2206,Super Express Non AC Seater Air Bus (2+2),18:40,20:34,01h 54m,INR 134,24 Seats available,3.6
+413,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 42,Swift Deluxe Non AC Air Bus (2+2),18:55,21:25,02h 30m,INR 145,25 Seats available,3.6
+414,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 815,Super Fast Non AC Seater (2+3),19:20,21:10,01h 50m,INR 111,42 Seats available,3.6
+415,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 1378,AC MULTI AXLE,19:20,20:50,01h 30m,INR 227,16 Seats available,3.6
+416,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 1193,Super Fast Non AC Seater (2+3),19:35,21:35,02h 00m,INR 108,47 Seats available,3.6
+417,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 44,Swift Deluxe Non AC Air Bus (2+2),20:05,21:50,01h 45m,INR 145,19 Seats available,3.6
+418,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 781,Super Fast Non AC Seater (2+3),20:20,22:45,02h 25m,INR 111,39 Seats available,3.6
+419,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 582,Super Express Non AC Seater Air Bus (2+2),20:30,22:40,02h 10m,INR 129,13 Seats available,3.6
+420,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 409,Super Express Non AC Seater Air Bus (2+2),20:30,22:15,01h 45m,INR 145,27 Seats available,3.6
+421,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 560,Super Express Non AC Seater Air Bus (2+2),20:35,22:10,01h 35m,INR 134,37 Seats available,3.6
+422,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 1200,Super Express Non AC Seater Air Bus (2+2),20:41,22:35,01h 54m,INR 134,17 Seats available,3.6
+423,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 798,Super Fast Non AC Seater (2+3),20:50,23:00,02h 10m,INR 111,47 Seats available,3.6
+424,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 370,AC MULTI AXLE,20:55,22:20,01h 25m,INR 227,8 Seats available,3.6
+425,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 129,SWIFT-GARUDA A/C SEATER BUS,21:05,22:50,01h 45m,INR 155,15 Seats available,3.6
+426,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 673,Super Fast Non AC Seater (2+3),21:10,23:25,02h 15m,INR 111,23 Seats available,3.6
+427,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 586,Super Express Non AC Seater Air Bus (2+2),21:15,22:50,01h 35m,INR 129,25 Seats available,3.6
+428,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 345,Super Fast Non AC Seater (2+3),21:51,23:55,02h 04m,INR 108,36 Seats available,3.6
+429,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 407,Super Express Non AC Seater Air Bus (2+2),22:00,23:25,01h 25m,INR 145,6 Seats available,3.6
+430,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 793,Super Fast Non AC Seater (2+3),22:05,00:00,01h 55m,INR 111,47 Seats available,3.6
+431,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 505,Super Express Non AC Seater Air Bus (2+2),22:25,23:59,01h 34m,INR 145,10 Seats available,3.9
+432,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 97,Swift Deluxe Non AC Air Bus (2+2),22:31,00:50,02h 19m,INR 145,14 Seats available,3.6
+433,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 2072,Super Express Non AC Seater Air Bus (2+2),22:55,00:30,01h 35m,INR 145,5 Seats available,3.6
+434,Kalpetta (kerala) to Kozhikode,KSRTC (Kerala) - 171,Swift Deluxe Non AC Air Bus (2+2),23:30,01:20,01h 50m,INR 145,22 Seats available,3.6
+435,Kalpetta (kerala) to Kozhikode,Cochin Express,A/C Sleeper (2+1),22:30,23:59,01h 29m,INR 850,5 Seats available,4.0
+436,Kalpetta (kerala) to Kozhikode,Cochin Express,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),22:25,23:59,01h 34m,INR 700,5 Seats available,4.0
+437,Kalpetta (kerala) to Kozhikode,Cochin Express,A/C Sleeper (2+1),22:30,23:59,01h 29m,INR 850,5 Seats available,4.0
+438,Kalpetta (kerala) to Kozhikode,Cochin Express,Volvo Multi-Axle B9R A/c Semi Sleeper (2+2),22:25,23:59,01h 34m,INR 700,5 Seats available,4.0
+439,Kalpetta (kerala) to Kozhikode,Cochin Express,A/C Seater Push Back (2+2),22:30,23:55,01h 25m,INR 700,41 Seats available,4.0
+440,Kalpetta (kerala) to Kozhikode,Cochin Express,A/C Seater Push Back (2+2),22:30,23:55,01h 25m,INR 700,41 Seats available,4.0
+441,Kalpetta (kerala) to Kozhikode,Sonia Travels,A/C Seater/Sleeper (2+1),21:30,23:29,01h 59m,INR 750,8 Seats available,3.8
+442,Kalpetta (kerala) to Kozhikode,Sonia Travels,A/C Seater/Sleeper (2+1),19:30,23:29,03h 59m,INR 750,8 Seats available,3.8
+443,Kalpetta (kerala) to Kozhikode,A1 Travels,Bharat Benz A/C Sleeper (2+1),21:00,23:30,02h 30m,INR 500,25 Seats available,3.3
